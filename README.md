@@ -8,4 +8,6 @@ App ID could also be changed to use this little script for other games,
 ## References
 * https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerAchievements_(v0001)
 
+## License  
+
 Released under The Unlicense
