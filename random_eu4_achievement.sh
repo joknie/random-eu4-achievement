@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # A quick and dirty script offering the user a random unobtained EU4 achievement to play for
 
 # get eu4 achievement stats from steam web api once at the start
