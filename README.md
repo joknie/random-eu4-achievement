@@ -1,6 +1,10 @@
 # random-eu4-achievement
 A quick and dirty script offering the user a random unobtained EU4 achievement to play for
 
+## Dependencies
+
+curl, jq, sed
+
 ## Usage
 
 On the line with the curl command, replace the XXXXX in the URL with your generated Steam Web API key and the target account's SteamID. (Note: Steam account needs to be public) 
